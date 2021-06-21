@@ -77,9 +77,8 @@ main div.imagem {
   height: auto;
 }
 main div.imagem img {
-  max-width: 100%;
+  width: 100%;
   height: auto;
-  background-color: blue;
 }
 
 main div.title {
